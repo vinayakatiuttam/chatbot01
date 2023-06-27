@@ -1,0 +1,112 @@
+.main-accordion{
+    padding: 0px;
+    margin-bottom: 2px;
+    border-radius: 10px;
+    align-items: center;
+    width: 100%;
+    box-shadow: 0px 2px 13px 1px rgba(7, 24, 20, 0.08);
+}
+
+    /* display: flex;
+    padding: 30px 16px;
+    align-items: flex-start;
+    gap: 297px;
+    border-radius: 8px;
+    /* background: var(--white-prim-99, #FFF);
+    /* Elevation 2 */
+    /* box-shadow: 0px 2px 13px 1px rgba(7, 24, 20, 0.08); */
+    /* chevron-down
+    Icon · 24 x 24
+    1x */
+    /* width: 100%;
+    height: 84px; */ 
+
+.accordion-1,.accordion-2,.accordion-3,.accordion-4{
+margin: 12px;
+box-sizing: border-box;
+border-radius: 4px solid
+grey;
+}
+.CustomButton{
+    align-items: flex-start;
+gap: 20px;
+border-bottom: red 1px solid;
+top: 2px;
+}
+.btn1{
+    display: flex;
+padding: 13px 20px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 4px;
+border-radius: 8px;
+border: 1px solid var(--neutral-93, #EDEDED);
+/* background: var(--neutral-93, #EDEDED); */
+
+/* moon
+Icon · 24 x 24 */
+
+}
+.btn1:hover{
+    background-color: #EDEDED;
+}
+.reset-btn{
+    display: flex;
+width: 5.9375rem;
+padding: 0.75rem 1.25rem;
+justify-content:center;
+align-items: center;
+/* Copy */
+border-radius: 8px;
+border: 1px solid var(--black-6, #071814);
+
+
+}
+.submit-btn{
+    display: flex;
+width: 5.9375rem;
+padding: 0.75rem 1.25rem;
+justify-content: center;
+align-items: center;
+/* Copy */
+border-radius: 8px;
+border: 1px solid var(--black-6, #071814);
+background-color: #071814;
+color: white;
+}
+.main-btn{
+    padding: 5px;
+    gap: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+.massage{
+    display: flex;
+flex-direction: column;
+align-items: flex-end;
+gap: 1.875rem;
+}
+.text-style{
+align-items: flex-start;
+gap: 16px;
+background-color: black;
+align-items: center;
+justify-content: center;
+
+
+
+}
+.MuiPaper{
+    /* margin: 12px;
+box-sizing: border-box;
+border-radius: 4px solid
+grey; */
+padding: 0px;
+margin-bottom: 2px;
+border-radius: 10px;
+align-items: center;
+width: 100%;
+box-shadow: 0px 2px 13px 1px rgba(7, 24, 20, 0.08);
+
+}
